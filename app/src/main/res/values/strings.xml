@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyCollege</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="notice_description">为进一步健全校友组织，挖掘校友资源，汇聚校友力量，充分发挥校友资源对学校整体工作的助推作用。我校将于2016年7月2日召开以“融聚·筑梦·郑在飞翔”为主题的郑州大学校友总会成立大会。</string>
+    <string name="notice_description2">为进一步健全校友组织，挖掘校友资源，汇聚校友力量，充分发挥校友</string>
+    <string name="notice_description3">为进一步健全校友组织，挖掘校友资源，汇聚校友力量，充分发挥校友资源对学校整体工作的助推作用。我校将于2016年7月2日召开以“融聚·筑梦·郑在飞翔”为主题的郑州大学校友总会成立大会。为进一步健全校友组织，挖掘校友资源，汇聚校友力量，充分发挥校友资源对学校整体工作的助推作用。我校将于2016年7月2日召开以“融聚·筑梦·郑在飞翔”为主题的郑州大学校友总会成立大会。我校将于2016年7月2日召开以“融聚·筑梦·郑在飞翔”为主题的郑州大学校友总会成立大会。</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
